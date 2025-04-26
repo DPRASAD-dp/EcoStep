@@ -38,7 +38,7 @@ def process_receipt_with_groq(image_path: str) -> List[Dict[str, Any]]:
             return []
         
         # API key - replace with environment variable in production
-        api_key = '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'
+        
         if not api_key:
             logging.error("No Groq API key available")
             return []
