@@ -96,6 +96,11 @@ streamlit run chatbot_app.py
 ```bash
 python -m reports.report_generator
 ```
+---
+
+## Working Demo
+
+https://www.loom.com/share/50289e780112484cac585c8fd2fc473f?sid=f08d5f2c-6b49-449a-b9fd-376b963dcab2
 
 ---
 
